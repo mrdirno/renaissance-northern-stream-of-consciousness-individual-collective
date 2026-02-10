@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-northern-stream-of-consciousness-individual-collective",
+  "title": "The Pressure-Voice in the Ice",
+  "tagline": "In the sentient silence of the Arctic, a harpooner's consciousness fractures between the brutal collective purpose of the hunt and the vast, indifferent world he alone perceives.",
+  "target_words": 66686,
+  "actual_words": 66686,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Humanity vs. Nature's Indifference",
+    "The Solitude of Perception",
+    "The Brutality of Collective Endeavor",
+    "The Sentience of Landscape"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Pressure-Voice in the Teeth",
+      "words": 5557
+    },
+    {
+      "ch": 2,
+      "title": "A Brutal, Grunting Labour",
+      "words": 5557
+    },
+    {
+      "ch": 3,
+      "title": "The Butcher-Shop Stench of Death",
+      "words": 5557
+    },
+    {
+      "ch": 4,
+      "title": "A Silence Like a Snapped Mast",
+      "words": 5557
+    },
+    {
+      "ch": 5,
+      "title": "The Horn That Drinks Sound",
+      "words": 5557
+    },
+    {
+      "ch": 6,
+      "title": "A Change in the Quality of Dark",
+      "words": 5557
+    },
+    {
+      "ch": 7,
+      "title": "The Ship's Held Breath",
+      "words": 5557
+    },
+    {
+      "ch": 8,
+      "title": "The Smoothing of the World",
+      "words": 5557
+    },
+    {
+      "ch": 9,
+      "title": "The Crunch in the Keel",
+      "words": 5557
+    },
+    {
+      "ch": 10,
+      "title": "A Conversation Almost Polite",
+      "words": 5557
+    },
+    {
+      "ch": 11,
+      "title": "The Dry Silence of Home",
+      "words": 5557
+    },
+    {
+      "ch": 12,
+      "title": "The Ice Speaks of Release",
+      "words": 5557
+    }
+  ]
+}
